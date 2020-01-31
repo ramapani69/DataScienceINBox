@@ -1,0 +1,100 @@
+Customerid,Contract, Dependents, DeviceProtection, InternetService, MonthlyCharges, MultipleLines, OnlineBackup, OnlineSecurity, PaperlessBilling, Partner, PaymentMethod, PhoneService, SeniorCitizen, StreamingMovies, StreamingTV, TechSupport , TotalCharges, gender, tenure
+0927-CNGRH,Month-to-month,1,No internet service,0,19.55,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,19.55,Male,1
+6603-QWSPR,Two year,0,1,Fiber optic,104.4,0,1,0,1,0,Bank transfer (automatic),1,0,1,1,1,4904.2,Female,46
+6599-RCLCJ,Month-to-month,0,1,Fiber optic,109.55,1,1,0,1,1,Electronic check,1,0,1,1,1,5124.55,Male,47
+7677-SJJJK,One year,1,0 internet service,0,19.9,0,0 internet service,0 internet service,0,1,Credit card (automatic),1,0,0 internet service,0 internet service,0 internet service,153.95,Male,8
+0020-JDNXP,One year,1,1,DSL,61.25,0 phone service,0,1,0,1,Mailed check,0,0,1,1,1,1993.2,Female,34
+6242-FEGFD,Two year,0,1,Fiber optic,96.6,1,1,1,0,1,Mailed check,1,0,0,0,1,6424.25,Male,66
+5445-UTODQ,Month-to-month,0,0,Fiber optic,81.1,0,0,0,1,1,Electronic check,1,0,0,1,0,576.65,Female,7
+9648-BCHKM,Two year,1,0 internet service,0,24.65,1,0 internet service,0 internet service,1,1,Credit card (automatic),1,0,0 internet service,0 internet service,0 internet service,471.35,Female,18
+3209-ZPKFI,Month-to-month,1,0,DSL,54.25,1,1,0,0,1,Electronic check,1,0,0,0,0,2538.2,Male,47
+7450-NWRTR,Month-to-month,0,1,Fiber optic,99.45,1,0,0,1,0,Electronic check,1,1,1,1,0,1200.15,Male,12
+4484-CGXFK,Month-to-month,0,0,DSL,55.3,0,0,0,1,0,Electronic check,1,0,1,0,0,196.15,Female,3
+5628-RKIFK,Month-to-month,0,0,Fiber optic,101.55,1,0,1,0,0,Credit card (automatic),1,1,1,1,0,5070.4,Female,49
+2737-YNGYW,Month-to-month,0,0,Fiber optic,80.55,0,0,0,0,0,Electronic check,1,0,1,0,0,184.1,Female,2
+1307-TVUFB,Month-to-month,0,0,Fiber optic,79.35,1,1,0,1,0,Bank transfer (automatic),1,1,0,0,0,3344.1,Male,42
+0654-HMSHN,Month-to-month,1,1,Fiber optic,104.4,1,1,0,0,1,Electronic check,1,0,1,1,0,2157.95,Male,21
+5915-A0EI,Two year,0,1,DSL,79.15,1,1,1,0,1,Mailed check,1,0,0,1,1,5536.5,Male,70
+6017-PPLPX,Month-to-month,1,0,Fiber optic,70.45,0,0,0,1,1,Electronic check,1,0,0,0,0,1470.95,Male,20
+2266-SJNAT,One year,0,1,Fiber optic,109.15,1,1,0,0,1,Credit card (automatic),1,0,1,1,1,7789.6,Female,72
+4881-GQJTW,Month-to-month,0,0 internet service,0,19.6,0,0 internet service,0 internet service,0,0,Credit card (automatic),1,0,0 internet service,0 internet service,0 internet service,300.4,Male,14
+4032-RMHCI,One year,1,1,DSL,35.4,0 phone service,0,1,0,1,Credit card (automatic),0,0,0,0,0,1412.4,Female,41
+1215-FIGMP,Month-to-month,0,0,Fiber optic,89.9,1,1,0,1,0,Bank transfer (automatic),1,0,0,1,0,5450.7,Male,60
+0019-GFNTW,Two year,0,1,DSL,45.05,0 phone service,1,1,0,0,Bank transfer (automatic),0,0,0,0,1,2560.1,Female,56
+9871-ELEYA,Two year,1,1,DSL,67.65,0,0,1,0,0,Credit card (automatic),1,0,0,1,1,2339.3,Female,34
+9888-ZCUMM,Two year,1,1,DSL,60.05,0 phone service,0,1,1,1,Bank transfer (automatic),0,0,1,1,1,3845.45,Male,64
+3399-BMLVW,Two year,1,0,DSL,60.5,0,1,1,0,1,Credit card (automatic),1,0,0,0,1,3121.45,Male,51
+4301-VVZKA,Month-to-month,0,0,Fiber optic,75.4,1,0,0,1,1,Electronic check,1,0,0,0,0,1189.4,Male,16
+4686-GEFRM,Two year,0,1,Fiber optic,98.7,1,1,0,1,1,Bank transfer (automatic),1,0,1,0,1,6858.9,Male,70
+9780-FKVVF,Month-to-month,0,0,DSL,59.15,0,0,1,1,0,Bank transfer (automatic),1,0,1,0,0,336.7,Male,6
+0404-AHASP,Two year,0,0 internet service,0,19.7,0,0 internet service,0 internet service,0,1,Credit card (automatic),1,0,0 internet service,0 internet service,0 internet service,1421.9,Male,72
+3621-CHYVB,Month-to-month,0,1,DSL,49.9,0 phone service,0,1,1,1,Bank transfer (automatic),0,0,1,0,1,2782.4,Female,57
+0516-OOHAR,One year,1,1,Fiber optic,100.35,0,1,0,0,1,Bank transfer (automatic),1,0,1,1,0,2799,Male,28
+8773-HHUOZ,Month-to-month,1,0,DSL,64.7,0,0,0,1,0,Mailed check,1,0,1,1,0,1093.1,Female,17
+9564-KCLHR,Month-to-month,0,0,DSL,51.25,0,0,0,0,0,Mailed check,1,0,0,0,1,51.25,Male,1
+1135-HIORI,One year,1,1,Fiber optic,111.45,1,1,0,1,1,Electronic check,1,0,1,1,1,7266.95,Female,64
+9405-GPBBG,Two year,0,1,Fiber optic,110.5,1,1,0,1,0,Credit card (automatic),1,0,1,1,1,7069.25,Female,64
+2072-ZVJJX,Two year,0,0 internet service,0,25.25,1,0 internet service,0 internet service,0,1,Bank transfer (automatic),1,0,0 internet service,0 internet service,0 internet service,1728.2,Male,68
+4695-VADHF,Month-to-month,1,1,DSL,57.45,0,0,0,0,1,Electronic check,1,0,1,0,0,990.85,Male,18
+5993-JSUWV,Two year,0,1,DSL,61.15,0,1,1,1,0,Bank transfer (automatic),1,0,0,0,0,4017.45,Female,66
+1251-KRREG,Month-to-month,0,0,DSL,54.4,1,1,0,1,0,Mailed check,1,0,0,0,0,114.1,Male,2
+9355-NPPFS,Month-to-month,0,0,Fiber optic,78.8,0,0,0,1,0,Electronic check,1,1,1,0,0,2006.1,Female,26
+8062-YBDOE,Month-to-month,0,0,Fiber optic,69.65,0,0,0,1,0,Electronic check,1,1,0,0,0,69.65,Male,1
+6023-YEBUP,Month-to-month,0,1,Fiber optic,100.95,1,0,0,1,0,Electronic check,1,0,1,1,0,329.95,Male,3
+4808-YNLEU,One year,0,0,DSL,62.15,0,0,1,1,1,Bank transfer (automatic),1,0,0,1,0,2215.45,Female,35
+0967-BMLBD,One year,1,0 internet service,0,20,0,0 internet service,0 internet service,1,1,Mailed check,1,0,0 internet service,0 internet service,0 internet service,196.35,Female,11
+9576-SYUHJ,Month-to-month,0,0,Fiber optic,91.15,1,0,1,1,0,Electronic check,1,0,0,1,0,3369.25,Male,37
+0723-DRCLG,Month-to-month,0,0,Fiber optic,74.45,1,0,0,1,1,Electronic check,1,1,0,0,0,74.45,Female,1
+7815-PDTHL,Two year,0,0 internet service,0,20.2,0,0 internet service,0 internet service,1,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,684.4,Male,35
+6481-ESCNL,Month-to-month,0,1,Fiber optic,100.55,1,0,0,0,0,Bank transfer (automatic),1,0,1,1,0,2878.75,Female,29
+5063-IUOKK,Two year,0,0 internet service,0,19.75,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,265.75,Male,13
+1746-TGTWV,Month-to-month,0,1,Fiber optic,75.35,0,0,0,0,1,Credit card (automatic),1,0,0,0,0,75.35,Male,1
+4480-MBMLB,One year,0,1,Fiber optic,104.8,1,1,0,1,0,Bank transfer (automatic),1,0,1,1,0,3886.45,Female,36
+6810-VCAEX,One year,0,0,DSL,39.65,0 phone service,1,1,0,0,Credit card (automatic),0,0,0,0,1,1798.65,Female,47
+7982-VCELR,Month-to-month,0,0,Fiber optic,94.8,0,1,0,1,0,Credit card (automatic),1,0,1,1,0,3565.65,Female,36
+0568-ONFPC,Month-to-month,1,0 internet service,0,25.9,1,0 internet service,0 internet service,1,1,Bank transfer (automatic),1,0,0 internet service,0 internet service,0 internet service,135,Male,5
+5469-CTCWN,One year,1,0,Fiber optic,106,1,1,1,1,1,Electronic check,1,0,1,1,0,6547.7,Male,61
+7979-CORPM,Month-to-month,0,0,Fiber optic,90.55,1,1,0,1,0,Credit card (automatic),1,0,0,1,0,2282.55,Male,24
+8019-ENHXU,Month-to-month,0,1,Fiber optic,99.45,1,1,0,1,1,Electronic check,1,0,1,0,1,4138.05,Male,42
+8204-YJCLA,Two year,1,1,DSL,64.8,0 phone service,1,1,1,1,Bank transfer (automatic),0,1,1,1,1,4732.35,Male,72
+1853-UDXBW,Month-to-month,1,0,Fiber optic,70,0,0,0,1,1,Electronic check,1,0,0,0,0,70,Male,1
+1635-HDGFT,Two year,1,0 internet service,0,20.5,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,398.55,Female,19
+8413-VONUO,Month-to-month,0,0,Fiber optic,95.65,0,1,0,0,0,Electronic check,1,0,1,1,0,167.3,Male,2
+4692-NNQRU,One year,0,1,Fiber optic,79.2,0,0,0,0,1,Electronic check,1,0,0,0,1,1742.45,Female,21
+6967-PEJLL,One year,1,1,DSL,40.2,0 phone service,0,1,1,1,Electronic check,0,0,0,0,1,1525.35,Male,37
+8152-VETUR,Two year,0,0,Fiber optic,97.7,1,1,0,1,1,Credit card (automatic),1,0,1,1,0,6869.7,Female,72
+5651-WYIPH,Month-to-month,0,0,DSL,49.85,0,1,0,1,0,Credit card (automatic),1,1,0,0,0,865.75,Female,18
+1092-GANHU,Month-to-month,0,1,Fiber optic,76.65,0,0,0,1,0,Electronic check,1,0,0,0,0,1313.55,Male,17
+3551-HUAZH,Month-to-month,0,0,Fiber optic,74.4,1,0,0,1,0,Electronic check,1,1,0,0,0,74.4,Male,1
+4510-PYUSH,Month-to-month,0,0,DSL,57.15,0,1,1,1,0,Credit card (automatic),1,1,0,0,0,2250.65,Female,38
+5995-SNNEW,Month-to-month,0,1,Fiber optic,104.45,1,1,0,1,1,Electronic check,1,1,1,1,0,2184.85,Male,23
+7643-RCHXS,Two year,1,0 internet service,0,19.35,0,0 internet service,0 internet service,0,1,Electronic check,1,0,0 internet service,0 internet service,0 internet service,1263.85,Female,63
+2507-QZPQS,Month-to-month,0,0,Fiber optic,95.7,1,1,0,0,0,Electronic check,1,0,1,0,1,1451.1,Male,15
+7994-UYIVZ,Month-to-month,0,0,Fiber optic,85.65,1,0,0,1,1,Bank transfer (automatic),1,0,1,0,0,659.45,Male,8
+7599-FKVXZ,Month-to-month,0,1,Fiber optic,106.15,1,0,0,1,1,Bank transfer (automatic),1,0,1,1,1,4512.7,Male,42
+0839-JTCUD,Two year,1,1,DSL,89.9,1,1,1,0,1,Credit card (automatic),1,0,1,1,1,5958.85,Female,66
+5222-JCXZT,Month-to-month,0,0 internet service,0,19,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,78.9,Male,4
+4016-BJKTZ,Two year,0,1,Fiber optic,108.9,1,1,0,0,0,Electronic check,1,0,1,1,1,2809.05,Female,25
+5181-OABFK,Two year,1,1,DSL,61.3,0,1,1,1,1,Credit card (automatic),1,0,0,0,0,3346.8,Female,56
+6839-ITVZJ,Month-to-month,1,0,DSL,60.05,1,1,0,1,1,Electronic check,1,0,0,0,1,1616.15,Female,26
+2640-LYMOV,Month-to-month,0,0 internet service,0,19.65,0,0 internet service,0 internet service,1,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,38.8,Male,2
+5014-GSOUQ,Two year,0,0 internet service,0,19.95,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,243.65,Male,13
+5138-WVKYJ,Month-to-month,0,0,Fiber optic,98.55,1,0,1,0,0,Electronic check,1,0,1,1,0,1008.55,Male,10
+3370-GQEAL,Month-to-month,1,0,Fiber optic,85.45,1,0,0,0,1,Electronic check,1,0,0,1,0,2509.95,Male,30
+6729-FZWSY,One year,0,0 internet service,0,19.45,0,0 internet service,0 internet service,1,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,1195.95,Male,67
+5505-OVWQW,One year,0,0 internet service,0,20.15,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,353.65,Female,17
+1376-HHBDV,Month-to-month,0,0,DSL,48.8,0,0,1,1,0,Mailed check,1,0,0,0,0,1536.75,Female,30
+6394-MFYNG,Month-to-month,0,1,Fiber optic,107.4,1,1,0,1,0,Bank transfer (automatic),1,0,1,1,0,5121.3,Female,48
+0778-NELLA,Month-to-month,0,0,DSL,34.7,0 phone service,0,0,1,0,Credit card (automatic),0,0,0,1,0,296.1,Male,9
+6131-IUNXN,Month-to-month,1,0 internet service,0,20.2,0,0 internet service,0 internet service,0,1,Mailed check,1,0,0 internet service,0 internet service,0 internet service,382.2,Female,19
+7184-LRUUR,One year,0,1,DSL,65.25,0,1,0,0,0,Bank transfer (automatic),1,0,0,1,0,1441.8,Female,22
+9122-UMROB,Month-to-month,0,0 internet service,0,20.3,0,0 internet service,0 internet service,0,0,Mailed check,1,0,0 internet service,0 internet service,0 internet service,20.3,Male,1
+8155-IBNHG,Month-to-month,0,0,Fiber optic,75.4,1,0,0,1,1,Credit card (automatic),1,0,0,0,0,1747.85,Female,24
+0928-XUTSN,Month-to-month,0,0,Fiber optic,80.5,0,0,0,1,0,Electronic check,1,0,1,0,0,1011.8,Female,13
+9588-YRFHY,Two year,0,0 internet service,0,19.9,0,0 internet service,0 internet service,1,0,Credit card (automatic),1,0,0 internet service,0 internet service,0 internet service,1022.6,Male,49
+8404-GFGCZ,Month-to-month,0,1,DSL,65.6,1,0,0,0,1,Electronic check,1,0,0,1,0,250.1,Male,4
+1550-LOAHA,Month-to-month,0,0,Fiber optic,84.15,0,1,0,0,1,Bank transfer (automatic),1,0,1,0,0,2585.95,Female,32
+8444-WRIDW,Month-to-month,0,0,Fiber optic,80.45,1,1,0,1,0,Credit card (automatic),1,1,0,0,0,5224.35,Female,66
+8824-RWFXJ,Month-to-month,1,1,DSL,56.15,0,1,0,1,1,Mailed check,1,0,0,0,0,168.15,Male,3
+5956-YHHRX,Month-to-month,0,1,Fiber optic,104.35,1,1,0,1,0,Electronic check,1,1,1,1,0,2271.85,Male,21
+5261-QSHQM,Month-to-month,0,0,DSL,24.45,0 phone service,0,0,1,0,Electronic check,0,0,0,0,0,86.6,Female,4
